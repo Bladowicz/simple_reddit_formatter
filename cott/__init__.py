@@ -1,0 +1,1 @@
+from cott.compile import run

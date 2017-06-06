@@ -1,0 +1,66 @@
+#**[Craft of the Titans] Tips, Tricks, Advices compiled**
+
+---
+
+
+I itend to gather tips, tricks and advices, concerning "Craft of the Titans" Minecraft modpack, and gather them here in organized manner. I will try to include autor of each post/comment containing content i will use.
+ 
+---
+ 
+#**Start**
+* As soon as you **spawn**, complete first quest. It will give you some equipment, that you will need to survive few next minutes.
+*Altrough Warrior is most powerfull from the start,* **Engineer** and **Mage** *are considered the best two choices for* **future development**. *Engineer gets turrents with solar power, which is great for base protection, and mage gets ranged spell with infinite uses (at ammount of mana is growing as you use spells, so the faster you start, the better), and regeneration spell.*
+* If your playing **solo**, don't give the mobs a chance to spawn at first. Sleep at the first sign of dusk. [SpaceRiceBowl]
+* **EasyMode** - you can use menu to claim chunks around your base, it prevents mob from doing explosion damage to your base.  
+ 
+ 
+---  
+ 
+#**Base**
+* As fast as you can, get 16 wood to complete next quest, which gives you **home**-spawning item. [Oswald_the_tuba] 
+ * Make a wall and a moat around your house. You want the moat to be 3 blocks wide/deep. [Oswald_the_tuba]
+ * Make a panic room, using reinforced stone, and put bed/some equipment there [Oswald_the_tuba]
+ * You can place your home underground. It clears some nice space around, so you will have a big cavern just for yourself. [GSV_Healthy_Fear]
+* Even basic turrents are boosted, and very useful. Do not delay placing them. [Zibons]
+* Placing base floating over water seems like a good idea (simplified ;P) [NotFromImgur]
+* Water is a good mob deterrent. Flowing water at the entrance to your base keeps most of the mobs out and combined with cobble turrets, they won't ever reach you. You get a slime launcher to get over the water yourself. [rtfree]
+ 
+---
+ 
+#**Industry**
+* You can speed up the crafting of Reinforced Stone by using the different stone types, as they technically drop as the "Stone" version of them, instead of cobblestone. [Zibons]
+* If you don't have enough **rubber**, don't have sapplings, or just don't like running around, look in lootbags for rubber seed. 
+ *Watering dongle works on mystical crops*  
+ *Using ExtraUtilities auto-user you can make a easy greenhouse setup.*
+* Compresing stone-like blocks, makes 'compressed stone' item. Uncompressing them makes stone. Easy one-way conversion there.
+---
+ 
+#**Minning**
+* You start with **backpack**. Latter you get second. Use them.  
+ *Change default key bindings and put in on your back, so it will not use space.*
+ *Expanding container size is easy. Do it*
+ *There are great upgrades for those backpack. My favorite is minner configuration, that automaticaly retrives all minning output, and in some cases compreses it (cobble/redstone etc.) *
+* Lapis Pickaxe is extremely usefull as its repaired with iron, and at fifth level it gets Fortune X enchant
+ 
+ 
+ 
+---
+ 
+#**Weapons And Armors**
+* You can get a nice **sword early on** using Boron Ore, does about **18 damage** at base Rarity. [Zibons]
+* Manyullyn armor(enchanted if you can) is amazing as it gives you Resistance 2 as a set bonus, though this requires you to spend a decent amount of time in the nether. [Zibons]
+ 
+---
+ 
+#Enemies
+* Bears are 3 blocks wide and don't dig [MyNamesAreStolen]
+* Be avare of rats. They can steal your equipment, and run away. I lost some great spells to those bastardos.
+ 
+---
+ 
+#Exploration
+* Nether is tough, be prepared [Oswald_the_tuba]
+* There's unique loot in nether dungeon chests, including a builder's wand (which is normally uncraftable). In this pack the builders wand doesn't actually use materials, so if you have 2 blocks of something you then have infinite of it. Risking the nether can be extremely valuable [EveTater]
+
+ 
+
