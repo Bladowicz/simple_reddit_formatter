@@ -1,1 +1,1 @@
-from cott.compile import run
+from cott.compile import print_simple_data as run

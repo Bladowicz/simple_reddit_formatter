@@ -1,4 +1,0 @@
-#**{{main_title}}**
-
-
-{% include 'section_divide_simple.txt' %}
